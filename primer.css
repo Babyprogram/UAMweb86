@@ -1,0 +1,28 @@
+body{
+    background-color: gainsboro;
+    font-family:'Courier New', Courier, monospace;
+}
+
+.main{
+    position:relative;
+    background-color: #F2A71B;
+    font-size: 2vh;
+    align-items: center;
+    text-align: center;
+    height: 10vh;
+}
+.main-li{
+color: aliceblue;
+
+
+}
+.titulos{
+    position: relative;
+    font-size: 5vh;
+    text-align: center;
+}
+.h2{
+    position: absolute;
+    top: 30px;
+    font-size: 6px;
+}

@@ -1,0 +1,21 @@
+.body{
+background-color: aqua;
+
+}
+
+
+
+.main{
+    font-size: 80vh;
+    background-color: blueviolet;
+}
+
+footer{
+    color: aqua;
+    font-size: 120px;
+}
+
+.nav-video{
+    position: relative;
+    left: 80vh;
+}
